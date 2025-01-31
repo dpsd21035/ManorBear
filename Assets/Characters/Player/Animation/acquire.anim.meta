@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c35f2908df94ea7419738cc100dcfd5c
+timeCreated: 1576894854
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132682
+  packageName: 2D Pixel Sword Princess
+  packageVersion: 2
+  assetPath: Assets/Sword Princess/Animation/acquire.anim
+  uploadId: 344313

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b44f4b398aaa1374fa2a6dfb65f7efd2
+timeCreated: 1576895020
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132682
+  packageName: 2D Pixel Sword Princess
+  packageVersion: 2
+  assetPath: Assets/Sword Princess/Animation/wallslide.anim
+  uploadId: 344313

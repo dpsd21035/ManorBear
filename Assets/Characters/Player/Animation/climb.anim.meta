@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 25247ecda9ce2f04f8589a9e55459a12
+timeCreated: 1576894871
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132682
+  packageName: 2D Pixel Sword Princess
+  packageVersion: 2
+  assetPath: Assets/Sword Princess/Animation/climb.anim
+  uploadId: 344313

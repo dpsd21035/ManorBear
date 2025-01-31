@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 30c443f654789f54297433beb1524361
+timeCreated: 1541568127
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132682
+  packageName: 2D Pixel Sword Princess
+  packageVersion: 2
+  assetPath: Assets/Sword Princess/Demo.unity
+  uploadId: 344313
